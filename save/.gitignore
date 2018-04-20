@@ -1,0 +1,9 @@
+# all files
+*
+
+# except
+!.gitignore
+!pong_ale_200.h5
+!pong_nowait_17.h5
+!pong_sync_25.h5
+!pong_wait_15.h5

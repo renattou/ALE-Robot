@@ -1,0 +1,9 @@
+# all files
+*
+
+# except
+!.gitignore
+!pong_ale.csv
+!pong_nowait.csv
+!pong_sync.csv
+!pong_wait.csv
