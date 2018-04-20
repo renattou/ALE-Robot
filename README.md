@@ -11,7 +11,7 @@ For executing an action, the agent positions the robot's joints so that it inter
 This controller then sends signals back to the agent when its being pressed and then the actions from the controller are  performed on the emulator.
 
 Initial results were unsatisfactory, but more testing needs to done.
-More details about the implementation, experiments and results can be seen on the report.
+More details about the implementation, experiments and results can be seen on the [report](https://www.ic.unicamp.br/~reltech/PFG/2017/PFG-17-18.pdf).
 
 ## Screenshots
 
@@ -71,4 +71,14 @@ A lot of the code related to the network and structure of the code were inspired
 This is a project I developed for my undergraduate thesis on Computer Science at the [Institute of Computing](https://www.ic.unicamp.br/) at [Unicamp](http://www.unicamp.br) (University of Campinas) on 2017.
 
 ## Citing
-If you use ALE-Robot, the architecture or the report, on your research, you can cite it as:
+If you use ALE-Robot, the architecture or the report, on your research, you can cite it as ([bib file](https://www.ic.unicamp.br/~reltech/PFG/2017/PFG-17-18.bib)):
+```
+@techreport{TR-IC-PFG-17-18,
+   number = {IC-PFG-17-18},
+   author = {Renato Landim Vargas and Esther Luna Colombini},
+   title = {{Atari-playing Robot}},
+   month = {December},
+   year = {2017},
+   institution = {Institute of Computing, University of Campinas}
+}
+```
